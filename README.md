@@ -11,7 +11,7 @@ The script adds the line `blacklist acer_wmi` to the system's blacklist file `/e
 
 1. Clone this repository or download the script:
    ```bash
-   git clone https://github.com/your-username/disable-acer-wmi.git
+   git clone https://github.com/Filipe-UEM/disable-acer-wmi.git
    ```
 
 2. Make the script executable:
