@@ -16,12 +16,12 @@ The script adds the line `blacklist acer_wmi` to the system's blacklist file `/e
 
 2. Make the script executable:
    ```bash
-   chmod +x desativar_acer_wmi.sh
+   chmod +x blacklist-acer-wmi.sh
    ```
 
 3. Run the script as a superuser:
    ```bash
-   sudo ./desativar_acer_wmi.sh
+   sudo ./blacklist-acer-wmi.sh
    ```
 
 The script will add the `acer_wmi` module to the blacklist and automatically reboot the system.
